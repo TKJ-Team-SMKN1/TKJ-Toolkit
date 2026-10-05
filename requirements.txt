@@ -1,0 +1,26 @@
+# GUI
+PyQt6>=6.6,<7
+
+# Network addressing
+netaddr>=1.3,<2
+
+# DNS
+dnspython>=2.6,<3
+
+# HTTP / network services
+requests>=2.32,<3
+
+# Data validation
+pydantic>=2.7,<3
+
+# Configuration
+PyYAML>=6.0,<7
+
+# System / network information
+psutil>=6.0,<7
+
+# Packet / protocol analysis
+scapy>=2.5,<3
+
+# Terminal output / diagnostics
+rich>=13.7,<14
